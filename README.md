@@ -1,5 +1,6 @@
 # ENCS3320 – Computer Networks: Project 2
 **Cisco Packet Tracer Network Simulation**
+---
 ![Networking](https://img.shields.io/badge/Networking-IP%20%7C%20Routing%20%7C%20DHCP-blueviolet?style=for-the-badge)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
