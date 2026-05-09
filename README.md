@@ -6,14 +6,11 @@ Birzeit University · Faculty of Engineering & Technology · Electrical & Comput
 
 ## Team
 
-| Name | ID | Section |
-|---|---|---|
-| Aya Abdullah | 1220782 | 1 |
-| Lana Darmna | 1220588 | 1 |
-| Jeneen Sattof | 1221682 | 1 |
+| Name 
+| Aya Abdullah 
+| Lana Darmna 
+| Jeneen Sattof
 
-**Instructor:** Alhareth Zyoud
-**Date:** 18 June 2025
 
 ---
 
